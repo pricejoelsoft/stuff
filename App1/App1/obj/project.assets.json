@@ -27493,11 +27493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jprice\\source\\repos\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "C:\\github\\stuff\\App1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "C:\\Users\\jprice\\source\\repos\\App1\\App1\\App1.csproj",
+      "projectPath": "C:\\github\\stuff\\App1\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\jprice\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jprice\\source\\repos\\App1\\App1\\obj\\",
+      "outputPath": "C:\\github\\stuff\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

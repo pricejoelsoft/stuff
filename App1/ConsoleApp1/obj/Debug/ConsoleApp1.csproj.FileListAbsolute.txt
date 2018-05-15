@@ -5,3 +5,10 @@ C:\Users\jprice\source\repos\App1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemb
 C:\Users\jprice\source\repos\App1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\jprice\source\repos\App1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\jprice\source\repos\App1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\github\stuff\App1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\github\stuff\App1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\github\stuff\App1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\github\stuff\App1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\github\stuff\App1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\github\stuff\App1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\github\stuff\App1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
